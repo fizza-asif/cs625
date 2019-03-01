@@ -19,7 +19,7 @@ if (waterNum > 0)
 }
 else
 {
-System.out.println("No more bottles of water on the wall");
+System.out.println("NO more bottles of water on the wall");
 }
 }
 }
